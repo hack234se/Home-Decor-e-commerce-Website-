@@ -1,0 +1,89 @@
+
+      body {
+        font-family: Arial, sans-serif;
+       background: darkslategrey;
+      }
+      form {
+        background-color: #fff;
+        border-radius: 5px;
+        padding: 20px;
+        width: 518px;
+        margin: auto;
+        margin-top: 50px;
+        box-shadow: 0px 0px 5px #888;
+
+      }
+      input[type="text"],
+      input[type="name"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }
+        input[type="text"],
+      input[type="phone"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }
+      input[type="text"],
+      input[type="address"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }
+      input[type="text"],
+      input[type="email"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }
+      input[type="text"],
+      input[type="user_name"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }
+      input[type="text"],
+      input[type="pass"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }
+       input[type="text"],
+      input[type="pincode"] {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+      }
+      input[type="submit"] {
+       display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #00abb3;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+      }
+      a {
+        color: #4CAF50;
+        text-decoration: none;
+      }
+
